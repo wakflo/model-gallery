@@ -1,31 +1,31 @@
 ## Whisper
-- url: "github:go-skynet/model-gallery/whisper-base.yaml"
+- url: "github:wakflo/model-gallery/whisper-base.yaml"
   name: "whisper-1"
   license: other
 ## Bert embeddings
-- url: "github:go-skynet/model-gallery/bert-embeddings.yaml"
+- url: "github:wakflo/model-gallery/bert-embeddings.yaml"
   name: "bert-embeddings"
   license: other
-- url: "github:go-skynet/model-gallery/bert-embeddings.yaml"
+- url: "github:wakflo/model-gallery/bert-embeddings.yaml"
   name: "text-embedding-ada-002"
   license: other
 ## Stable Diffusion
-- url: github:go-skynet/model-gallery/stablediffusion.yaml
+- url: github:wakflo/model-gallery/stablediffusion.yaml
   name: stablediffusion
   license: other
 ## Tiny Dream
-- url: github:go-skynet/model-gallery/tinydream.yaml
+- url: github:wakflo/model-gallery/tinydream.yaml
   name: tinydream
   license: other
 ## Luna Demo
-- url: github:go-skynet/model-gallery/lunademo.yaml
+- url: github:wakflo/model-gallery/lunademo.yaml
   name: lunademo
   license: other
-- url: github:go-skynet/model-gallery/mistral.yaml
+- url: github:wakflo/model-gallery/mistral.yaml
   name: mistral
   license: other
 ## Piper TTS
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-kathleen-low
   license: other
   urls:
@@ -33,7 +33,7 @@
   files:
     - filename: voice-en-us-kathleen-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-kathleen-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-ca-upc_ona-x-low
   license: other
   urls:
@@ -41,7 +41,7 @@
   files:
     - filename: voice-ca-upc_ona-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ca-upc_ona-x-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-ca-upc_pau-x-low
   license: other
   urls:
@@ -49,7 +49,7 @@
   files:
     - filename: voice-ca-upc_pau-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ca-upc_pau-x-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-da-nst_talesyntese-medium
   license: other
   urls:
@@ -57,7 +57,7 @@
   files:
     - filename: voice-da-nst_talesyntese-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-da-nst_talesyntese-medium.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-eva_k-x-low
   license: other
   urls:
@@ -65,7 +65,7 @@
   files:
     - filename: voice-de-eva_k-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-eva_k-x-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-karlsson-low
   license: other
   urls:
@@ -73,7 +73,7 @@
   files:
     - filename: voice-de-karlsson-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-karlsson-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-kerstin-low
   license: other
   urls:
@@ -81,7 +81,7 @@
   files:
     - filename: voice-de-kerstin-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-kerstin-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-pavoque-low
   license: other
   urls:
@@ -89,7 +89,7 @@
   files:
     - filename: voice-de-pavoque-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-pavoque-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-ramona-low
   license: other
   urls:
@@ -97,7 +97,7 @@
   files:
     - filename: voice-de-ramona-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-ramona-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-de-thorsten-low
   license: other
   urls:
@@ -105,7 +105,7 @@
   files:
     - filename: voice-de-thorsten-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-thorsten-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-el-gr-rapunzelina-low
   license: other
   urls:
@@ -113,7 +113,7 @@
   files:
     - filename: voice-el-gr-rapunzelina-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-el-gr-rapunzelina-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-gb-alan-low
   license: other
   urls:
@@ -121,7 +121,7 @@
   files:
     - filename: voice-en-gb-alan-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-gb-alan-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-gb-southern_english_female-low
   license: other
   urls:
@@ -129,7 +129,7 @@
   files:
     - filename: voice-en-gb-southern_english_female-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-gb-southern_english_female-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-amy-low
   license: other
   urls:
@@ -137,7 +137,7 @@
   files:
     - filename: voice-en-us-amy-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-amy-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-danny-low
   license: other
   urls:
@@ -145,7 +145,7 @@
   files:
     - filename: voice-en-us-danny-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-danny-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-kathleen-low
   license: other
   urls:
@@ -153,7 +153,7 @@
   files:
     - filename: voice-en-us-kathleen-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-kathleen-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-lessac-low
   license: other
   urls:
@@ -161,7 +161,7 @@
   files:
     - filename: voice-en-us-lessac-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-lessac-low.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-lessac-medium
   license: other
   urls:
@@ -169,7 +169,7 @@
   files:
     - filename: voice-en-us-lessac-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-lessac-medium.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-libritts-high
   license: other
   urls:
@@ -177,7 +177,7 @@
   files:
     - filename: voice-en-us-libritts-high.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-libritts-high.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-ryan-high
   license: other
   urls:
@@ -185,7 +185,7 @@
   files:
     - filename: voice-en-us-ryan-high.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-high.tar.gz
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-ryan-low
   license: other
   urls:
@@ -194,7 +194,7 @@
     - filename: voice-en-us-ryan-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us-ryan-medium
   license: other
   urls:
@@ -203,7 +203,7 @@
     - filename: voice-en-us-ryan-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-en-us_lessac
   license: other
   urls:
@@ -212,7 +212,7 @@
     - filename: voice-en-us_lessac.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us_lessac.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-es-carlfm-x-low
   license: other
   urls:
@@ -221,7 +221,7 @@
     - filename: voice-es-carlfm-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-carlfm-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-es-mls_10246-low
   license: other
   urls:
@@ -230,7 +230,7 @@
     - filename: voice-es-mls_10246-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_10246-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-es-mls_9972-low
   license: other
   urls:
@@ -239,7 +239,7 @@
     - filename: voice-es-mls_9972-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_9972-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-fi-harri-low
   license: other
   urls:
@@ -248,7 +248,7 @@
     - filename: voice-fi-harri-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fi-harri-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-fr-gilles-low
   license: other
   urls:
@@ -257,7 +257,7 @@
     - filename: voice-fr-gilles-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-gilles-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-fr-mls_1840-low
   license: other
   urls:
@@ -266,7 +266,7 @@
     - filename: voice-fr-mls_1840-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-mls_1840-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-fr-siwis-low
   license: other
   urls:
@@ -275,7 +275,7 @@
     - filename: voice-fr-siwis-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-siwis-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-fr-siwis-medium
   license: other
   urls:
@@ -284,7 +284,7 @@
     - filename: voice-fr-siwis-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-siwis-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-is-bui-medium
   license: other
   urls:
@@ -293,7 +293,7 @@
     - filename: voice-is-bui-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-bui-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-is-salka-medium
   license: other
   urls:
@@ -302,7 +302,7 @@
     - filename: voice-is-salka-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-salka-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-is-steinn-medium
   license: other
   urls:
@@ -311,7 +311,7 @@
     - filename: voice-is-steinn-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-steinn-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-is-ugla-medium
   license: other
   urls:
@@ -320,7 +320,7 @@
     - filename: voice-is-ugla-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-ugla-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-it-riccardo_fasol-x-low
   license: other
   urls:
@@ -329,7 +329,7 @@
     - filename: voice-it-riccardo_fasol-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-it-riccardo_fasol-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-kk-iseke-x-low
   license: other
   urls:
@@ -338,7 +338,7 @@
     - filename: voice-kk-iseke-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-iseke-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-kk-issai-high
   license: other
   urls:
@@ -347,7 +347,7 @@
     - filename: voice-kk-issai-high.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-issai-high.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-kk-raya-x-low
   license: other
   urls:
@@ -356,7 +356,7 @@
     - filename: voice-kk-raya-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-raya-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-ne-google-medium
   license: other
   urls:
@@ -365,7 +365,7 @@
     - filename: voice-ne-google-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ne-google-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-ne-google-x-low
   license: other
   urls:
@@ -374,7 +374,7 @@
     - filename: voice-ne-google-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ne-google-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-nl-mls_5809-low
   license: other
   urls:
@@ -383,7 +383,7 @@
     - filename: voice-nl-mls_5809-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-mls_5809-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-nl-mls_7432-low
   license: other
   urls:
@@ -392,7 +392,7 @@
     - filename: voice-nl-mls_7432-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-mls_7432-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-nl-nathalie-x-low
   license: other
   urls:
@@ -401,7 +401,7 @@
     - filename: voice-nl-nathalie-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-nathalie-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-nl-rdh-medium
   license: other
   urls:
@@ -410,7 +410,7 @@
     - filename: voice-nl-rdh-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-rdh-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-nl-rdh-x-low
   license: other
   urls:
@@ -419,7 +419,7 @@
     - filename: voice-nl-rdh-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-rdh-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-no-talesyntese-medium
   license: other
   urls:
@@ -428,7 +428,7 @@
     - filename: voice-no-talesyntese-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-no-talesyntese-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-pl-mls_6892-low
   license: other
   urls:
@@ -437,7 +437,7 @@
     - filename: voice-pl-mls_6892-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-pl-mls_6892-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-pt-br-edresson-low
   license: other
   urls:
@@ -446,7 +446,7 @@
     - filename: voice-pt-br-edresson-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-pt-br-edresson-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-ru-irinia-medium
   license: other
   urls:
@@ -455,7 +455,7 @@
     - filename: voice-ru-irinia-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ru-irinia-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-sv-se-nst-medium
   license: other
   urls:
@@ -464,7 +464,7 @@
     - filename: voice-sv-se-nst-medium.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-sv-se-nst-medium.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-uk-lada-x-low
   license: other
   urls:
@@ -473,7 +473,7 @@
     - filename: voice-uk-lada-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-uk-lada-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-vi-25hours-single-low
   license: other
   urls:
@@ -482,7 +482,7 @@
     - filename: voice-vi-25hours-single-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-vi-25hours-single-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-vi-vivos-x-low
   license: other
   urls:
@@ -491,7 +491,7 @@
     - filename: voice-vi-vivos-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-vi-vivos-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-zh-cn-huayan-x-low
   license: other
   urls:
@@ -500,7 +500,7 @@
     - filename: voice-zh-cn-huayan-x-low.tar.gz
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-zh-cn-huayan-x-low.tar.gz
 
-- url: github:go-skynet/model-gallery/virtual.yaml
+- url: github:wakflo/model-gallery/virtual.yaml
   name: voice-zh_CN-huayan-medium
   license: other
   urls:

@@ -19,23 +19,23 @@ config_file: |
     top_k: 40
     top_p: 0.95
   template:
-    chat_message: chatml
-    chat: chatml-block
-    completion: completion
+    chat_message: mistral-7b-chatml
+    chat: mistral-7b-chatml-block
+    completion: mistral-7b-completion
   stopwords:
   - <|im_end|>
 
 prompt_templates:
-- name: "chatml"
+- name: "mistral-7b-chatml"
   content: |
     <|im_start|>{{if eq .RoleName "assistant"}}assistant{{else if eq .RoleName "system"}}system{{else if eq .RoleName "user"}}user{{end}}
     {{if .Content}}{{.Content}}{{end}}
     <|im_end|>
-- name: "chatml-block"
+- name: "mistral-7b-chatml-block"
   content: |
     {{.Input}}
     <|im_start|>assistant
-- name: "completion"
+- name: "mistral-7b-completion"
   content: |
     {{.Input}}
     
